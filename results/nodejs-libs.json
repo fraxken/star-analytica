@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "async_hooks",
+    "url": "https://unpkg.com/browse/bluebird@3.7.2/js/release/promise.js"
+  },
+  {
+    "kind": "async_hooks",
+    "url": "https://unpkg.com/browse/bluebird@3.7.2/js/release/util.js"
+  },
+  {
+    "kind": "async_hooks",
+    "url": "https://unpkg.com/browse/couchbase@3.0.6/lib/connection.js"
+  },
+  {
+    "kind": "async_hooks",
+    "url": "https://unpkg.com/browse/newrelic@6.13.0/lib/instrumentation/core/async_hooks.js"
+  },
+  {
+    "kind": "async_hooks",
+    "url": "https://unpkg.com/browse/tap@14.10.8/lib/base.js"
+  }
+]

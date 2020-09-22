@@ -1,0 +1,13 @@
+{
+  "averageFileByProject": 69.17004048582996,
+  "averageWarningsByProject": {
+    "encoded-literal": "0.48540",
+    "unsafe-import": "0.01296",
+    "unsafe-regex": "0.07779",
+    "unsafe-stmt": "0.01077",
+    "unsafe-assign": "0.03556",
+    "short-identifiers": "0.00067",
+    "suspicious-literal": "0.00705",
+    "obfuscated-code": "0.00020"
+  }
+}

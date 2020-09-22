@@ -1,0 +1,1357 @@
+[
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@guoruiguang/acs-portal@1.0.8/src/portal/assets/iconfonts/font/iconfont.js",
+    "value": 16
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Alfaromeo.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Amazonaws.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Amazonfiretv.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Amazonlumberyard.js",
+    "value": 18
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Americanexpress.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Angellist.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apache.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apacheairflow.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apacheant.js",
+    "value": 10
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apachecassandra.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apachecloudstack.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apacheflink.js",
+    "value": 19
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apachekafka.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apachemaven.js",
+    "value": 11
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apachenetbeanside.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Apacherocketmq.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Askfm.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Audi.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Babel.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Badgr.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/BattleDotNet.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Bentley.js",
+    "value": 19
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Bower.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Breaker.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Canva.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Cdprojekt.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Chupachups.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Cisco.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Citroen.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Codechef.js",
+    "value": 10
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Codewars.js",
+    "value": 14
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Composer.js",
+    "value": 54
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Concourse.js",
+    "value": 9
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Contactlesspayment.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Coronaengine.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/CounterStrike.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Cpanel.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Cryengine.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Curl.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Datacamp.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Datadog.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Debian.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Deno.js",
+    "value": 9
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Discogs.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Disroot.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/DraugiemDotLv.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Duolingo.js",
+    "value": 21
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Easyjet.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Eleventy.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Elsevier.js",
+    "value": 187
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Epicgames.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Evry.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/FDroid.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Fedora.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Ferrari.js",
+    "value": 25
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/FerrarinDotVDot.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Figshare.js",
+    "value": 24
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Filezilla.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/First.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Fiverr.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Flask.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Ford.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Fossa.js",
+    "value": 26
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Fossilscm.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Furaffinity.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Furrynetwork.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Geeksforgeeks.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Gerrit.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Gitkraken.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Glitch.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Gnu.js",
+    "value": 20
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Gnubash.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Gnuicecat.js",
+    "value": 8
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/GovDotUk.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Grafana.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Greensock.js",
+    "value": 13
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Groovy.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Grunt.js",
+    "value": 8
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Gulp.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Gutenberg.js",
+    "value": 40
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Happycow.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Hellofresh.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Helm.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Iata.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Icq.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Iheartradio.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Imgur.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/ItchDotIo.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Itunes.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Jabber.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Jenkins.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Jenkinsx.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Jest.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Jfrog.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Jinja.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Johndeere.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Jquery.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Json.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Keybase.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Khronosgroup.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Kubernetes.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Lamborghini.js",
+    "value": 10
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Landrover.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Latex.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Libuv.js",
+    "value": 20
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Linewebtoon.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Linux.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Livestream.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Llvm.js",
+    "value": 9
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Lua.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Magisk.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Mailchimp.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Meetup.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Microsoftsqlserver.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Minds.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Minetest.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Mongodb.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Musescore.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Musicbrainz.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Mysql.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Nestjs.js",
+    "value": 8
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Nissan.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Ocaml.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Openaigym.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Openapiinitiative.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Openbsd.js",
+    "value": 21
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Opengl.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Openssl.js",
+    "value": 9
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Openstreetmap.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/ParseDotLy.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Pastebin.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Peugeot.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Phabricator.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Pokemon.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Porsche.js",
+    "value": 32
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Postcss.js",
+    "value": 37
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Postgresql.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Prestashop.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Prezi.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Prime.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Primevideo.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/ProtocolsDotIo.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Raspberrypi.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Razer.js",
+    "value": 9
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/ReactJs.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Readthedocs.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Realm.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Retropie.js",
+    "value": 8
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Rhinoceros.js",
+    "value": 9
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Rubyonrails.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Rust.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Ryanair.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Scania.js",
+    "value": 11
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Shikimori.js",
+    "value": 16
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Signal.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Skillshare.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Snyk.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Sonarlint.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Soundcloud.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Splunk.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Spotlight.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Ssrn.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Statamic.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Staticman.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Steamworks.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Strongswan.js",
+    "value": 13
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Stubhub.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/StyledComponents.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Styleshare.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Stylus.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Svgo.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Tails.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Tapas.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Teespring.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Tencentweibo.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Theregister.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Timescale.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Tomorrowland.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Tor.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Travisci.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Unitedairlines.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Veeam.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Vsco.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Vulkan.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Webauthn.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Webmin.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Windows95.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Wireguard.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Wizzair.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Woocommerce.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Worldhealthorganization.js",
+    "value": 16
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/WriteDotAs.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Xampp.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@icons-pack/react-simple-icons@3.8.0/lib/components/Škoda.js",
+    "value": 3
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@lsby/ql_web@1.2.5/tmp/lib/通用/异常.js",
+    "value": 1
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@monogatari/core@2.0.0-beta.12/dist/engine/core/monogatari.js",
+    "value": 1.0585711101203745
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@redtea/always-avatar@1.0.0-beta.3/dist/always-avatar/always-avatar.js",
+    "value": 1.3408926417370326
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@redtea/always-avatar@1.0.0-beta.3/dist/cjs/dom-a0c82e31-d4621515.js",
+    "value": 1.2401433691756272
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@redtea/always-avatar@1.0.0-beta.3/dist/esm/dom-a0c82e31-a0c82e31.js",
+    "value": 1.2401433691756272
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@redtea/always-avatar@1.0.0-beta.3/dist/esm/legacy/dom-a0c82e31-a0c82e31.js",
+    "value": 1.2401433691756272
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@redtea/always-avatar@1.0.0-beta.3/dist/esm/polyfills/dom.js",
+    "value": 1.2401433691756272
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/@redtea/always-avatar@1.0.0-beta.3/dist/esm/polyfills/index.js",
+    "value": 1.368421052631579
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@simplenexus/snui@0.1.10/dist/SNUI.common.js",
+    "value": 15.2
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@simplenexus/snui@0.1.10/dist/SNUI.umd.js",
+    "value": 15.2
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@simplenexus/snui@0.1.10/dist/SNUI.umd.min.js",
+    "value": 24.666666666666668
+  },
+  {
+    "kind": "obfuscated-code",
+    "url": "https://unpkg.com/browse/@testing-library/cypress@7.0.0/dist/add-commands.js",
+    "value": "jjencode"
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@vnnox/novaui@1.5.1/docs/assets/js/template-2d5130f.js",
+    "value": 22.053571428571427
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@vueblocks/element-schema-form@0.1.5/lib/SchemaFormQuill.common.min.js",
+    "value": 7.6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/@vueblocks/element-schema-form@0.1.5/lib/SchemaFormQuill.umd.min.js",
+    "value": 7.6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/axios-mock-adapter@1.18.2/dist/axios-mock-adapter.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/bluebird@3.7.2/js/browser/bluebird.core.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/bluebird@3.7.2/js/release/join.js",
+    "value": 3
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/bootstrap-vue@2.17.3/src/utils/clone-deep.spec.js",
+    "value": 1
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/bootstrap-vue@2.17.3/src/utils/object.spec.js",
+    "value": 1.5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/bottleneck@2.19.5/es5.js",
+    "value": 4.75
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/bottleneck@2.19.5/lib/parser.js",
+    "value": 1.5
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/browserify@16.5.2/test/hash_instance_context/main.js",
+    "value": 1
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/chrome-devtools-frontend@1.0.808663/front_end/third_party/codemirror/package/mode/nginx/nginx.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/chrome-devtools-frontend@1.0.808663/front_end/third_party/codemirror/package/mode/php/php.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/chrome-devtools-frontend@1.0.808663/front_end/third_party/codemirror/package/mode/sas/sas.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/chrome-devtools-frontend@1.0.808663/front_end/third_party/codemirror/package/mode/sql/sql.js",
+    "value": 3.2222222222222223
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/codemirror@5.57.0/mode/nginx/nginx.js",
+    "value": 6
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/codemirror@5.57.0/mode/php/php.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/codemirror@5.57.0/mode/sas/sas.js",
+    "value": 5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/codemirror@5.57.0/mode/sql/sql.js",
+    "value": 3.2222222222222223
+  },
+  {
+    "kind": "obfuscated-code",
+    "url": "https://unpkg.com/browse/core-js-pure@3.6.5/modules/esnext.math.iaddh.js",
+    "value": "obfuscator.io"
+  },
+  {
+    "kind": "obfuscated-code",
+    "url": "https://unpkg.com/browse/core-js-pure@3.6.5/modules/esnext.math.isubh.js",
+    "value": "obfuscator.io"
+  },
+  {
+    "kind": "obfuscated-code",
+    "url": "https://unpkg.com/browse/core-js@3.6.5/modules/esnext.math.iaddh.js",
+    "value": "obfuscator.io"
+  },
+  {
+    "kind": "obfuscated-code",
+    "url": "https://unpkg.com/browse/core-js@3.6.5/modules/esnext.math.isubh.js",
+    "value": "obfuscator.io"
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/countries-list@2.5.6/dist/index.es5.min.js",
+    "value": 21.75
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/docxtemplater@3.19.3/build/docxtemplater.js",
+    "value": 9
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/docxtemplater@3.19.3/js/tests/data-fixtures.js",
+    "value": 5.5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/endpoint-lib@1.0.28/dist/index.ios.js",
+    "value": 6.5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/endpoint-lib@1.0.28/dist/index.web.js",
+    "value": 6.5
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/express-useragent@1.0.15/test/browsers.test.js",
+    "value": 1.0123456790123457
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/express-useragent@1.0.15/test/ios.js",
+    "value": 1.0588235294117647
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/express-useragent@1.0.15/test/silk.test.js",
+    "value": 1.0909090909090908
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/hdr-histogram-js@2.0.1/dist/hdrhistogram.umd.js",
+    "value": 12
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/hdr-histogram-js@2.0.1/dist/wasm/generated-wasm.js",
+    "value": 45
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/html2canvas@1.0.0-rc.7/dist/html2canvas.esm.js",
+    "value": 10.571428571428571
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/html2canvas@1.0.0-rc.7/dist/html2canvas.js",
+    "value": 10.571428571428571
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/html2canvas@1.0.0-rc.7/dist/html2canvas.min.js",
+    "value": 10.571428571428571
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/ionicons@5.1.2/dist/esm-es5/dom-3fa9e65e.js",
+    "value": 1.1408450704225352
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/jsoneditor@9.1.0/dist/jsoneditor.js",
+    "value": 7.380952380952381
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/jsoneditor@9.1.0/dist/jsoneditor.min.js",
+    "value": 6.826086956521739
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/kibana@5.1.1/src/core_plugins/console/public/src/sense_editor/theme-sense-dark.js",
+    "value": 3
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/kibana@5.1.1/src/core_plugins/console/public/webpackShims/ace/ext-searchbox.js",
+    "value": 3.5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/libphonenumber-js@1.7.58/build/findNumbers/utf-8.js",
+    "value": 3.25
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/libphonenumber-js@1.7.58/es6/findNumbers/utf-8.js",
+    "value": 3.25
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/libphonenumber-js@1.7.58/source/findNumbers/utf-8.js",
+    "value": 3.25
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/lighthouse@6.3.0/lighthouse-cli/test/fixtures/byte-efficiency/bundle.js",
+    "value": 3
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/npm@6.14.8/lib/xmas.js",
+    "value": 1.2272727272727273
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/openpgp@4.10.8/src/crypto/cipher/cast5.js",
+    "value": 1.3691275167785235
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/plotly.js@1.55.2/src/traces/carpet/smooth_fill_array.js",
+    "value": 1.40625
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/polished@3.6.6/docs/assets/anchor.js",
+    "value": 4
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/proj4@2.6.2/lib/adjust_axis.js",
+    "value": 1.5
+  },
+  {
+    "kind": "obfuscated-code",
+    "url": "https://unpkg.com/browse/proj4@2.6.2/lib/common/tsfnz.js",
+    "value": "freejsobfuscator"
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/react-select@3.1.0/dist/index-30113876.browser.cjs.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/react-select@3.1.0/dist/index-4322c0ed.browser.esm.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/react-select@3.1.0/dist/index-503cf1e8.cjs.dev.js",
+    "value": 7
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/react-select@3.1.0/dist/index-52626178.esm.js",
+    "value": 7
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/resolve@1.17.0/test/resolver/nested_symlinks/mylib/async.js",
+    "value": 1.5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/terminal-kit@1.43.0/lib/spChars.js",
+    "value": 3
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/terminal-kit@1.43.0/sample/24bits-colors-test.js",
+    "value": 1
+  },
+  {
+    "kind": "short-identifiers",
+    "url": "https://unpkg.com/browse/terminal-kit@1.43.0/sample/256colors-test.js",
+    "value": 1
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/tslint@6.1.3/lib/rules/orderedImportsRule.js",
+    "value": 4
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/vega-lite@4.15.0/build/vega-lite.js",
+    "value": 6.5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/vega-lite@4.15.0/build/vega-lite.min.js",
+    "value": 6.5
+  },
+  {
+    "kind": "suspicious-literal",
+    "url": "https://unpkg.com/browse/vega-lite@4.15.0/build-es5/vega-lite.js",
+    "value": 6.5
+  },
+  {
+    "kind": "obfuscated-code",
+    "url": "https://unpkg.com/browse/vuetify@2.3.10/lib/services/goto/easing-patterns.js",
+    "value": "obfuscator.io"
+  }
+]

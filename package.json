@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "builtins": "^3.0.1",
+    "frequency-set": "^1.0.1",
     "klona": "^2.0.4"
   }
 }
